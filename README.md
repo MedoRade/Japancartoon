@@ -1,2 +1,2 @@
-# Japancartoon.github.io
+# Japancartoon
 this website for anime
