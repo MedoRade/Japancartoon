@@ -1,2 +1,2 @@
 # Japancartoon.github.io
-this website is a anime website
+this website for anime
